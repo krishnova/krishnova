@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 👯 I’m looking to collaborate on **Data Science/ Machine Learning/ NLP**
-
-- 📝 I regularly write articles on [https://guideuforward.tech/](https://guideuforward.tech/)
-
 - 📫 How to reach me **sneegdh.muj@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD**
