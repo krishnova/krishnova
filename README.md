@@ -7,9 +7,9 @@
 
 - 🌱 Some of my key skills include - **C/C++,Python,Git,Wordpress,Flask**
 
-- 👯 I’m also looking to collaborate for various **Hackathons!**
-
 - 🤝 I’m looking to collaborate on **Python & ML projects**
+
+- 👯 I’m also looking to collaborate for various **Hackathons!**
 
 - 👨‍💻 Check out my website: [sneegdh.co](sneegdh.co)
 
