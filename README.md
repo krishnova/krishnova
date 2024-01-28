@@ -1,15 +1,15 @@
 <h1 align="left">Hi there 👋</h1>
-<h3 align="center">I am Sneegdh Krishnna, currently an IT Undergrad at Manipal University Jaipur. My area of interest includes Data Science & Machine Learning.</h3>
+<h3 align="center">I am Sneegdh Krishnna, a Software Engineer from Delhi, India. My area of interest includes Big Data, Cloud Native & NLP.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnova&label=Profile%20views&color=0e75b6&style=flat" alt="krishnova" /> </p>
 
-- 🌱 Some of my key skills include - **C/C++,Python,Git,Wordpress,Flask**
+- 🌱 Some of my key skills include - **Python, Flask, Docker, Kubernetes, Helm, Ansible, Prometheus, Grafana, PySpark, Hadoop, NiFi, Git, SQL, Wordpress, Flask**
 
-- 🤝 I’m looking to collaborate on **Python & ML projects**
+- 🤝 I’m looking to collaborate on **Big Data & NLP/Gen AI projects**
 
 - 👯 I’m also looking to collaborate for various **Hackathons!**
 
-- 📝 I regularly write articles on [https://medium.com/@krishnova](https://medium.com/@krishnova)
+- 📝 I regularly write articles on [https://medium.com/@sneegdhk](https://medium.com/@sneegdhk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
